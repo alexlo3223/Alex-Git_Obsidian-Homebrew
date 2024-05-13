@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "0c941b9c26d26089",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7a89966d9be7902",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "103defcaa579eaff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clase_Simpatista/Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7497982c2afba39",
+    "type": "split",
+    "children": [
+      {
+        "id": "be667a424a6ae6eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ab0a2520619722",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0798dafe39bbd56f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76301dfd05d358bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d8a8397c7f3221a",
+    "type": "split",
+    "children": [
+      {
+        "id": "848d50f0ad39960f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0efeb0e636e6a7c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clase_Simpatista/Ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af9681bf5f85cbdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clase_Simpatista/Ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37f5776b34cd2f6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75f0cb1d6d6ef88e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clase_Simpatista/Ideas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "103defcaa579eaff",
+  "lastOpenFiles": [
+    "Prueba.md",
+    "DnD/Hombrew/Hechizos/Rudeza.md",
+    "DnD/Hombrew/Hechizos/Mantle.md",
+    "DnD/Hombrew/Hechizos/Empathy.md",
+    "DnD/Hombrew/Hechizos",
+    "DnD\\Hombrew\\Hechizos",
+    "DnD/Hombrew/Clase_Simpatista/Ideas.md",
+    "DnD/Hombrew/Clase_Simpatista",
+    "DnD\\Hombrew\\Clase_Simpatista",
+    "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
+    "DnD/Hombrew/Clase_Caballero Radiante/Bloc de cambios.md",
+    "DnD/Hombrew/Clase_Caballero Radiante",
+    "DnD/Hombrew",
+    "DnD\\Hombrew\\Clase_Caballero Radiante",
+    "DnD/Aetheria/Culturas/Freshat.md",
+    "DnD/Aetheria/Culturas/Dimens.md",
+    "DnD/Aetheria/Culturas",
+    "DnD\\Aetheria\\Culturas",
+    "DnD/Aetheria/Bienvenido a Aetheria.md",
+    "DnD/Aetheria/Bestiario/Chuls.md",
+    "DnD/Aetheria/Bestiario",
+    "DnD/Aetheria/Aetheria.canvas",
+    "Clase_Simpatista/Ideas.md"
+  ]
+}
