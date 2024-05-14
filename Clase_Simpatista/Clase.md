@@ -10,7 +10,7 @@ Tiradas de Salvación: STR, WIS.
 
 **Armadura**: Ligera
 **Armas**: Armas simples
-**Herramientas**: Ninguna
+**Herramientas**: Alquimista, carpintero, calígrafo, soplador de vidrio, herrero, hojalatero.
 
 **Habilidades**: Elige cinco entre todas las habilidades.
 
@@ -42,4 +42,4 @@ Ejemplos del entrenamiento de **alar**:
 - Creer que una piedra no caerá, aunque intelectualmente sabe que debe caer.
 - Cantar mentalmente 3 melodías al mismo tiempo y tener total comprensión de ellas.
 - Esconder un objeto utilizando una parte de su mente y buscándola con otra sin saber el conocimiento de la primera parte de la mente.
-- Creer que 2 objetos están conectados, para asi de esta manera hacer un vinculo.
+- Creer que 2 objetos están conectados, para así de esta manera hacer un vinculo.
