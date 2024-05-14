@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md",
+                "file": "Clase_Simpatista/Clase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md",
+                "file": "Clase_Simpatista/Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md",
+                "file": "Clase_Simpatista/Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md"
+                "file": "Clase_Simpatista/Clase.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -148,6 +149,8 @@
   },
   "active": "103defcaa579eaff",
   "lastOpenFiles": [
+    "Clase_Simpatista/Ideas.md",
+    "Clase_Simpatista/Clase.md",
     "Prueba.md",
     "DnD/Hombrew/Hechizos/Rudeza.md",
     "DnD/Hombrew/Hechizos/Mantle.md",
@@ -174,7 +177,6 @@
     "DnD/Aetheria/Bienvenido a Aetheria.md",
     "DnD/Aetheria/Bestiario/Chuls.md",
     "DnD/Aetheria/Bestiario",
-    "DnD/Aetheria/Aetheria.canvas",
-    "Clase_Simpatista/Ideas.md"
+    "DnD/Aetheria/Aetheria.canvas"
   ]
 }
