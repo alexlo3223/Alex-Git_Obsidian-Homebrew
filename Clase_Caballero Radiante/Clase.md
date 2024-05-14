@@ -6,9 +6,9 @@ Los caballeros radiantes son personas que por la fuerza de alguna sus emociones 
 # Características de clase:
 
 Dado de Golpe a nivel **1**: 10
-Dado de Golpe: 1d8 + CON por nivel (depende del spren)
+Dado de Golpe: 1d8 + CON por nivel
 
-Tiradas de Salvación: STR, WIS. Al elegir la orden de caballeros radiantes se cambia a la/s estadística que se muestre
+Tiradas de Salvación: STR, WIS.
 
 **Armadura**: Ligera, Media, Pesada y escudos
 **Armas**: Armas simples y marciales
@@ -70,7 +70,7 @@ Zafiro 100gp (10 de Luz Tormentosa)
 Rubí 500gp (20 de Luz Tormentosa)
 Esmeralda 1000gp (30 de Luz Tormentosa)
 Diamante 1500gp (40 de Luz Tormentosa)
-==Gold point colocados en caso de querer usarlo de moneda==
+*Gold point colocados en caso de querer usarlo de moneda*
 
 Además, algunos rasgos de clase del Caballero Radiante requieren tiradas de salvación. En este caso la DC es 8 + nivel de caballero radiante + tu modificador de carisma.
 
