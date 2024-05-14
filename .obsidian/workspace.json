@@ -4,28 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "3fa273afefc7c33c",
+        "id": "231340e2b1ebe2a1",
         "type": "tabs",
         "children": [
           {
-            "id": "f406e8ddc6834719",
+            "id": "885b3ac34c8f2d97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md",
+                "file": "Clase_Simpatista/Clase.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5243dc669d8f0b98",
+            "id": "b9572bc2ea4178f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Clase_Caballero Radiante/Clase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b8daf84154b70811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "318f0eb7547b0770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clase_Simpatista/Tabla.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c4bd0debcd70b368",
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md",
+                "file": "Clase_Simpatista/Tabla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md",
+                "file": "Clase_Simpatista/Tabla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase_Simpatista/Ideas.md"
+                "file": "Clase_Simpatista/Tabla.md"
               }
             }
           }
@@ -159,22 +178,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f406e8ddc6834719",
+  "active": "318f0eb7547b0770",
   "lastOpenFiles": [
     "Clase_Simpatista/Clase.md",
+    "Clase_Simpatista/Tabla.md",
+    "Clase_Caballero Radiante/Tabla.md",
     "Clase_Caballero Radiante/Clase.md",
+    "Clase_Simpatista/Ideas.md",
+    "Clase_Caballero Radiante/Ordenes.md",
     "Clase_Caballero Radiante/Ideales.md",
     "Untitled.md",
     "Hechizos/Rudeza.md",
     "Hechizos/Mantle.md",
     "Hechizos/Empathy.md",
     "Hechizos",
-    "Clase_Simpatista/Ideas.md",
     "Clase_Simpatista",
-    "Clase_Caballero Radiante/Tabla.md",
     "Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
     "Clase_Caballero Radiante/Potencias.md",
-    "Clase_Caballero Radiante/Ordenes.md",
     "Clase_Caballero Radiante/Bloc de cambios.md",
     "Clase_Caballero Radiante"
   ]
