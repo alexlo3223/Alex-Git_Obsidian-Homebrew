@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0c941b9c26d26089",
+    "id": "f7666b96dbf50adc",
     "type": "split",
     "children": [
       {
-        "id": "a7a89966d9be7902",
+        "id": "3fa273afefc7c33c",
         "type": "tabs",
         "children": [
           {
-            "id": "103defcaa579eaff",
+            "id": "f406e8ddc6834719",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,22 +18,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5243dc669d8f0b98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clase_Caballero Radiante/Clase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a7497982c2afba39",
+    "id": "0e31ecb0dff23537",
     "type": "split",
     "children": [
       {
-        "id": "be667a424a6ae6eb",
+        "id": "ecf9322241f10a06",
         "type": "tabs",
         "children": [
           {
-            "id": "19ab0a2520619722",
+            "id": "31dd99734c6dc4c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "0798dafe39bbd56f",
+            "id": "40a399007cee4be8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "76301dfd05d358bc",
+            "id": "f06912b9e8f08646",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "7d8a8397c7f3221a",
+    "id": "c4bd0debcd70b368",
     "type": "split",
     "children": [
       {
-        "id": "848d50f0ad39960f",
+        "id": "f592e97f826d29b9",
         "type": "tabs",
         "children": [
           {
-            "id": "0efeb0e636e6a7c1",
+            "id": "5b26195c080e9152",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase_Simpatista/Clase.md",
+                "file": "Clase_Caballero Radiante/Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "af9681bf5f85cbdc",
+            "id": "5e3c15709be0c8fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase_Simpatista/Clase.md",
+                "file": "Clase_Caballero Radiante/Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "37f5776b34cd2f6b",
+            "id": "8bf40a9e3cf86fa3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "75f0cb1d6d6ef88e",
+            "id": "b8daebf1344f184e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase_Simpatista/Clase.md"
+                "file": "Clase_Caballero Radiante/Clase.md"
               }
             }
           }
@@ -138,45 +151,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "103defcaa579eaff",
+  "active": "5243dc669d8f0b98",
   "lastOpenFiles": [
-    "Clase_Simpatista/Ideas.md",
     "Clase_Simpatista/Clase.md",
-    "Prueba.md",
-    "DnD/Hombrew/Hechizos/Rudeza.md",
-    "DnD/Hombrew/Hechizos/Mantle.md",
-    "DnD/Hombrew/Hechizos/Empathy.md",
-    "DnD/Hombrew/Hechizos",
-    "DnD\\Hombrew\\Hechizos",
-    "DnD/Hombrew/Clase_Simpatista/Ideas.md",
-    "DnD/Hombrew/Clase_Simpatista",
-    "DnD\\Hombrew\\Clase_Simpatista",
-    "DnD/Hombrew/Clase_Caballero Radiante/Tabla.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Potencias.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Ordenes.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Ideales.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Clase.md",
-    "DnD/Hombrew/Clase_Caballero Radiante/Bloc de cambios.md",
-    "DnD/Hombrew/Clase_Caballero Radiante",
-    "DnD/Hombrew",
-    "DnD\\Hombrew\\Clase_Caballero Radiante",
-    "DnD/Aetheria/Culturas/Freshat.md",
-    "DnD/Aetheria/Culturas/Dimens.md",
-    "DnD/Aetheria/Culturas",
-    "DnD\\Aetheria\\Culturas",
-    "DnD/Aetheria/Bienvenido a Aetheria.md",
-    "DnD/Aetheria/Bestiario/Chuls.md",
-    "DnD/Aetheria/Bestiario",
-    "DnD/Aetheria/Aetheria.canvas"
+    "Clase_Caballero Radiante/Clase.md",
+    "Untitled.md",
+    "Hechizos/Rudeza.md",
+    "Hechizos/Mantle.md",
+    "Hechizos/Empathy.md",
+    "Hechizos",
+    "Clase_Simpatista/Ideas.md",
+    "Clase_Simpatista",
+    "Clase_Caballero Radiante/Tabla.md",
+    "Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
+    "Clase_Caballero Radiante/Potencias.md",
+    "Clase_Caballero Radiante/Ordenes.md",
+    "Clase_Caballero Radiante/Ideales.md",
+    "Clase_Caballero Radiante/Bloc de cambios.md",
+    "Clase_Caballero Radiante"
   ]
 }
