@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase_Simpatista/Clase.md",
+                "file": "Clase_Simpatista/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clase_Caballero Radiante/Clase.md",
+                "file": "Clase_Simpatista/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clase_Caballero Radiante/Clase.md",
+                "file": "Clase_Simpatista/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clase_Caballero Radiante/Clase.md"
+                "file": "Clase_Simpatista/Ideas.md"
               }
             }
           }
@@ -160,10 +159,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5243dc669d8f0b98",
+  "active": "f406e8ddc6834719",
   "lastOpenFiles": [
     "Clase_Simpatista/Clase.md",
     "Clase_Caballero Radiante/Clase.md",
+    "Clase_Caballero Radiante/Ideales.md",
     "Untitled.md",
     "Hechizos/Rudeza.md",
     "Hechizos/Mantle.md",
@@ -175,7 +175,6 @@
     "Clase_Caballero Radiante/Sprens, su aspecto y comportamiento.md",
     "Clase_Caballero Radiante/Potencias.md",
     "Clase_Caballero Radiante/Ordenes.md",
-    "Clase_Caballero Radiante/Ideales.md",
     "Clase_Caballero Radiante/Bloc de cambios.md",
     "Clase_Caballero Radiante"
   ]
