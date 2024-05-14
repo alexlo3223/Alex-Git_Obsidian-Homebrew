@@ -23,6 +23,7 @@ Empiezas con el siguiente equipo, además del que te otorga tu trasfondo:
 
 # Habilidades de Clase:
 ## Simpatía
+Lvl 1
 ### Vínculos simpáticos
 La simpatía es un sistema de manipulación de la energía (considerado una forma de magia )  que requiere una habilidad y concentración extremas. La simpatía requiere que el usuario cree un **vínculo simpático** entre dos objetos, de modo que lo que se haga a uno de ellos afecte al otro. 
 
@@ -43,3 +44,5 @@ Ejemplos del entrenamiento de **alar**:
 - Cantar mentalmente 3 melodías al mismo tiempo y tener total comprensión de ellas.
 - Esconder un objeto utilizando una parte de su mente y buscándola con otra sin saber el conocimiento de la primera parte de la mente.
 - Creer que 2 objetos están conectados, para así de esta manera hacer un vinculo.
+
+## Trucos Simpáticos¿?
