@@ -41,13 +41,14 @@ Condiciones para crear un **vinculo simpático**:
 
 **Ejemplo en caso de quemas el objeto vinculado**
 
-| Fuerza de vinculo | Daño hecho                                             |
-| ----------------- | ------------------------------------------------------ |
-| Muy debil         | No hace daño, siente calor                             |
-| Debil             | 1d2, solo escuece un poco                              |
-| Medio             | 1d6, empieza a notar ardores                           |
-| Fuerte            | 2d6, siente como si se le quemara una parte del cuerpo |
-| Muy Fuerte        | 4d6, siente como si todo su cuerpo en el fuego         |
+| Fuerza de vinculo | Descripción de vinculo | Daño hecho                                             |
+| ----------------- | ---------------------- | ------------------------------------------------------ |
+| Nulo              | No se parecen en nada  | Nada                                                   |
+| Muy debil         | No se parecen en mucho | No hace daño, siente calor                             |
+| Debil             |                        | 1d2, solo escuece un poco                              |
+| Medio             |                        | 1d6, empieza a notar ardores                           |
+| Fuerte            |                        | 2d6, siente como si se le quemara una parte del cuerpo |
+| Muy Fuerte        |                        | 4d6, siente como si todo su cuerpo en el fuego         |
 
 
 
