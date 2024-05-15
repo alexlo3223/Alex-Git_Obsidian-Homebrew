@@ -33,6 +33,23 @@ Sin embargo, la simpatía no es perfecta, y siempre se pierde algo de energía e
 
 Por ejemplo, creando un muñeco de una persona y estableciendo un vínculo simpático entre el muñeco y esa persona, un simpatizante puede afectar a la temperatura de la persona colocando el muñeco cerca de una fuente de calor.
 
+Condiciones para crear un **vinculo simpático**: 
+- El objeto/ser vivo con el cual se quiere hacer un vinculo requiere que el objeto tenga un mínimo de similitud en forma o en material al objeto que se quiere vincular.
+- En caso de ser un ser vivo el objetivo del vinculo, si al objeto vinculado con el se le añade elementos de su cuerpo(sangre, pelos, un diente suyo, ...)  el vinculo aumenta su conexión.
+- Cuando creas un vinculo tienes que estar concentrado y cuándo mas vínculos tengas mas fácil es desconcentrarte
+- Depende de la fuerza del vinculo el daño que harás con sustancias.
+
+**Ejemplo en caso de quemas el objeto vinculado**
+
+| Fuerza de vinculo | Daño hecho                                             |
+| ----------------- | ------------------------------------------------------ |
+| Muy debil         | No hace daño, siente calor                             |
+| Debil             | 1d2, solo escuece un poco                              |
+| Medio             | 1d6, empieza a notar ardores                           |
+| Fuerte            | 2d6, siente como si se le quemara una parte del cuerpo |
+| Muy Fuerte        | 4d6, siente como si todo su cuerpo en el fuego         |
+
+
 
 
 ### Alar
