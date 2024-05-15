@@ -33,6 +33,8 @@ Sin embargo, la simpatía no es perfecta, y siempre se pierde algo de energía e
 
 Por ejemplo, creando un muñeco de una persona y estableciendo un vínculo simpático entre el muñeco y esa persona, un simpatizante puede afectar a la temperatura de la persona colocando el muñeco cerca de una fuente de calor.
 
+
+
 ### Alar
 > "Se llama Alar: creencia en la cosecha".
 -Abenthy, experto simpatista
@@ -45,4 +47,12 @@ Ejemplos del entrenamiento de **alar**:
 - Esconder un objeto utilizando una parte de su mente y buscándola con otra sin saber el conocimiento de la primera parte de la mente.
 - Creer que 2 objetos están conectados, para así de esta manera hacer un vinculo.
 
+##  Educación científica
+*Eres inteligente MUCHO, en investigación naturaleza y medicina puedes sumarles tu modificador de inteligencia*
+
 ## Trucos Simpáticos¿?
+Lvl 2
+***Metamagia** para la simpatía*
+
+
+## Subclase
