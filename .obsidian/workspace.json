@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7d8a8397c7f3221a",
@@ -149,9 +150,11 @@
   },
   "active": "103defcaa579eaff",
   "lastOpenFiles": [
+    "Clase_Caballero Radiante/Clase.md",
+    "Clase_Caballero Radiante/Tabla.md",
+    "Clase_Simpatista/Clase.md",
     "Clase_Simpatista/Tabla.md",
     "Clase_Simpatista/Ideas.md",
-    "Clase_Simpatista/Clase.md",
     "Prueba.md",
     "DnD/Hombrew/Hechizos/Rudeza.md",
     "DnD/Hombrew/Hechizos/Mantle.md",
