@@ -41,14 +41,14 @@ Condiciones para crear un **vinculo simpático**:
 
 **Ejemplo en caso de quemas el objeto vinculado**
 
-| Fuerza de vinculo | Descripción de vinculo                               | Daño hecho                                             |
-| ----------------- | ---------------------------------------------------- | ------------------------------------------------------ |
-| Nulo              | No se parecen en nada                                | Nada                                                   |
-| Muy debil         | No se parecen en mucho                               | No hace daño, siente calor                             |
-| Debil             | Empieza a tener un semblante pero le falta mucha aun | 1d2, solo escuece un poco                              |
-| Medio             |                                                      | 1d6, empieza a notar ardores                           |
-| Fuerte            |                                                      | 2d6, siente como si se le quemara una parte del cuerpo |
-| Muy Fuerte        |                                                      | 4d6, siente como si todo su cuerpo en el fuego         |
+| Fuerza de vinculo | Descripción de vinculo                            | Daño hecho                                             |
+| ----------------- | ------------------------------------------------- | ------------------------------------------------------ |
+| Nulo              | No se parecen en nada                             | Nada                                                   |
+| Muy debil         | No se parecen en mucho                            | No hace daño, siente calor                             |
+| Debil             | Empieza a tener un pequeño semblante              | 1d2, solo escuece un poco                              |
+| Medio             | Es parecido                                       | 1d6, empieza a notar ardores                           |
+| Fuerte            | Es "igual"                                        | 2d6, siente como si se le quemara una parte del cuerpo |
+| Muy Fuerte        | Es "igual" y se ha añadido elementos del objetivo | 4d6, siente como si todo su cuerpo en el fuego         |
 
 
 
@@ -65,12 +65,52 @@ Ejemplos del entrenamiento de **alar**:
 - Esconder un objeto utilizando una parte de su mente y buscándola con otra sin saber el conocimiento de la primera parte de la mente.
 - Creer que 2 objetos están conectados, para así de esta manera hacer un vinculo.
 
-##  Educación científica
-*Eres inteligente MUCHO, en investigación naturaleza y medicina puedes sumarles tu modificador de inteligencia*
+Obtienes puntos de alar a través de tus niveles, los puntos de alar son el combustible para los vínculos simpáticos, una vez acabado el combate los puntos gastados para hacer vínculos serán regenerados, todos los puntos utilizados para otras cosas de la clase no serán regenerados.
 
+##  Educación científica
+*Eres MUY inteligente, en investigación naturaleza y medicina puedes sumarles tu modificador de inteligencia*
+
+Puedes añadir tu bonificador de inteligencia a 2 de las siguientes habilidades.
+- Investigación
+- Naturaleza
+- Medicina
+- Historia
+En caso de ser una habilidad que ya iba con inteligencia obtiene pericia.
 ## Trucos Simpáticos¿?
 Lvl 2
 ***Metamagia** para la simpatía*
 
+1. **Vínculo Amplificado**
+    
+    - **Descripción:** Aumenta la fuerza del vínculo simpático temporalmente.
+    - **Efecto:** Por 1 punto de Alar, puedes aumentar la fuerza del vínculo en un nivel durante 1 minuto. Por ejemplo, un vínculo débil se convierte en medio, un vínculo medio se convierte en fuerte, etc.
+2. **Conexión Extendida**
+    
+    - **Descripción:** Extiende el rango de influencia del vínculo simpático.
+    - **Efecto:** Por 1 punto de Alar, extiendes el rango de acción del vínculo simpático a 60 pies durante 1 minuto.
+3. **Eficiencia Energética**
+    
+    - **Descripción:** Reduce la pérdida de energía en la conexión simpática.
+    - **Efecto:** Por 2 puntos de Alar, reduces el esfuerzo necesario para mantener el vínculo simpático en un 50% durante 10 minutos, reduciendo la fatiga o los costos energéticos.
+4. **Duplicación de Vínculos**
+    
+    - **Descripción:** Permite crear un segundo vínculo simpático de manera más eficiente.
+    - **Efecto:** Por 2 puntos de Alar, puedes crear un segundo vínculo simpático con un objeto adicional sin perder concentración, siempre y cuando el segundo objeto sea similar al primero.
+5. **Resonancia Potenciada**
+    
+    - **Descripción:** Aumenta la transferencia de energía entre los objetos vinculados.
+    - **Efecto:** Por 1 punto de Alar, puedes hacer que los efectos de la simpatía (como el daño o la transferencia de calor) sean más intensos, aumentando el dado de daño en un nivel (por ejemplo, de 1d6 a 1d8) durante 1 minuto.
+6. **Escudo Simpático**
+    
+    - **Descripción:** Utiliza la simpatía para crear una barrera protectora.
+    - **Efecto:** Por 3 puntos de Alar, puedes vincular un objeto a ti mismo para desviar el daño. Reduces el daño recibido en 1d6 durante 1 minuto, transfiriendo ese daño al objeto vinculado.
+7. **Sincronización Perfecta**
+    
+    - **Descripción:** Permite que dos acciones ocurran simultáneamente a través de los vínculos simpáticos.
+    - **Efecto:** Por 2 puntos de Alar, puedes realizar dos acciones idénticas en objetos vinculados simultáneamente (como mover o activar dos mecanismos a la vez) durante 1 minuto.
+8. **Simpatía Persistente**
+    
+    - **Descripción:** Mantiene el vínculo simpático activo sin concentración.
+    - **Efecto:** Por 3 puntos de Alar, puedes mantener un vínculo simpático sin necesidad de concentración durante 10 minutos.
 
 ## Subclase
