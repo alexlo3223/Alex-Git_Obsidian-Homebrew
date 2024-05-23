@@ -3,7 +3,7 @@
 | ------ | -------------------- | ---------------------------------------------------- | ---------------------- | ------------------------- |
 | Lvl 1  | 6                    | Habilidades anteriores, Enlace Spren, Luz Tormentosa | 1d6                    | 1                         |
 | Lvl 2  | 12                   | Orden de los Caballeros Radiantes                    | 1d6                    | 1                         |
-| Lvl 3  | 18                   |                                                      | 1d6                    | 1                         |
+| Lvl 3  | 18                   | Especialista en combate                              | 1d6                    | 1                         |
 | Lvl 4  | 24                   | Mejora de puntuación de habilidad                    | 1d6                    | 1                         |
 | Lvl 5  | 30                   | Ataque Extra                                         | 1d6                    | 1                         |
 | Lvl 6  | 36                   |                                                      | 1d4                    | 1                         |
