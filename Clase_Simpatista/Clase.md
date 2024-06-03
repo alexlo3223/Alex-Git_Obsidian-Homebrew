@@ -36,7 +36,8 @@ Por ejemplo, creando un muñeco de una persona y estableciendo un vínculo simp�
 Condiciones para crear un **vinculo simpático**: 
 - El objeto/ser vivo con el cual se quiere hacer un vinculo requiere que el objeto tenga un mínimo de similitud en forma o en material al objeto que se quiere vincular.
 - En caso de ser un ser vivo el objetivo del vinculo, si al objeto vinculado con el se le añade elementos de su cuerpo(sangre, pelos, un diente suyo, ...)  el vinculo aumenta su conexión.
-- Cuando creas un vinculo tienes que estar concentrado y cuándo mas vínculos tengas mas fácil es desconcentrarte
+- Cuando creas un vinculo tienes que estar concentrado y cuándo mas vínculos tengas mas fácil es desconcentrarte.
+- El objetivo del vinculo tiene que estar en un rango de 40 pies.
 - Depende de la fuerza del vinculo el daño que harás con sustancias.
 
 **Ejemplo en caso de quemas el objeto vinculado**
@@ -49,6 +50,15 @@ Condiciones para crear un **vinculo simpático**:
 | Medio             | Es parecido                                       | 1d6, empieza a notar ardores                           |
 | Fuerte            | Es "igual"                                        | 2d6, siente como si se le quemara una parte del cuerpo |
 | Muy Fuerte        | Es "igual" y se ha añadido elementos del objetivo | 4d6, siente como si todo su cuerpo en el fuego         |
+
+| Numero de vínculos simultáneos | DC Concentracion |
+| ------------------------------ | ---------------- |
+| 1                              | 14 + Prof + CHA  |
+| 2                              | 13 + Prof + CHA  |
+| 3                              | 12 + Prof + CHA  |
+| 4                              | 10 + Prof + CHA  |
+| 5                              | 8 + Prof + CHA   |
+| 6                              | 6 + Prof + CHA   |
 
 
 
@@ -76,41 +86,37 @@ Puedes añadir tu bonificador de inteligencia a 2 de las siguientes habilidades.
 - Medicina
 - Historia
 En caso de ser una habilidad que ya iba con inteligencia obtiene pericia.
-## Trucos Simpáticos¿?
+## Trucos Simpáticos
 Lvl 2
 ***Metamagia** para la simpatía*
 
 1. **Vínculo Amplificado**
     
     - **Descripción:** Aumenta la fuerza del vínculo simpático temporalmente.
-    - **Efecto:** Por 1 punto de Alar, puedes aumentar la fuerza del vínculo en un nivel durante 1 minuto. Por ejemplo, un vínculo débil se convierte en medio, un vínculo medio se convierte en fuerte, etc.
+    - **Efecto:** Por 1 punto de Alar y gastando una accion, puedes aumentar la fuerza del vínculo en un nivel durante 1 minuto. Por ejemplo, un vínculo débil se convierte en medio, un vínculo medio se convierte en fuerte, etc.
 2. **Conexión Extendida**
     
     - **Descripción:** Extiende el rango de influencia del vínculo simpático.
-    - **Efecto:** Por 1 punto de Alar, extiendes el rango de acción del vínculo simpático a 60 pies durante 1 minuto.
-3. **Eficiencia Energética**
-    
-    - **Descripción:** Reduce la pérdida de energía en la conexión simpática.
-    - **Efecto:** Por 2 puntos de Alar, reduces el esfuerzo necesario para mantener el vínculo simpático en un 50% durante 10 minutos, reduciendo la fatiga o los costos energéticos.
-4. **Duplicación de Vínculos**
+    - **Efecto:** Por 1 punto de Alar y gastando una accion bonus, extiendes el rango de acción del vínculo simpático a 60 pies durante 1 minuto **(10 turnos)**.
+3. **Duplicación de Vínculos**
     
     - **Descripción:** Permite crear un segundo vínculo simpático de manera más eficiente.
-    - **Efecto:** Por 2 puntos de Alar, puedes crear un segundo vínculo simpático con un objeto adicional sin perder concentración, siempre y cuando el segundo objeto sea similar al primero.
-5. **Resonancia Potenciada**
+    - **Efecto:** Por 2 puntos de Alar y gastando una accion, puedes crear un segundo vínculo simpático con un objetivo adicional sin disminuir tu DC de concentración.
+4. **Resonancia Potenciada**
     
     - **Descripción:** Aumenta la transferencia de energía entre los objetos vinculados.
-    - **Efecto:** Por 1 punto de Alar, puedes hacer que los efectos de la simpatía (como el daño o la transferencia de calor) sean más intensos, aumentando el dado de daño en un nivel (por ejemplo, de 1d6 a 1d8) durante 1 minuto.
-6. **Escudo Simpático**
+    - **Efecto:** Por 1 punto de Alar y gastando una acción, puedes hacer que los efectos de la simpatía (como el daño o la transferencia de calor) sean más intensos, aumentando el dado de daño en un nivel (por ejemplo, de 1d6 a 1d8) durante 30 segundos **(5 turnos)**.
+5. **Escudo Simpático**
     
     - **Descripción:** Utiliza la simpatía para crear una barrera protectora.
-    - **Efecto:** Por 3 puntos de Alar, puedes vincular un objeto a ti mismo para desviar el daño. Reduces el daño recibido en 1d6 durante 1 minuto, transfiriendo ese daño al objeto vinculado.
-7. **Sincronización Perfecta**
-    
-    - **Descripción:** Permite que dos acciones ocurran simultáneamente a través de los vínculos simpáticos.
-    - **Efecto:** Por 2 puntos de Alar, puedes realizar dos acciones idénticas en objetos vinculados simultáneamente (como mover o activar dos mecanismos a la vez) durante 1 minuto.
-8. **Simpatía Persistente**
+    - **Efecto:** Por 3 puntos de Alar y gastando una reacción, puedes vincular un objeto a ti mismo para desviar el daño elemental. Reduces el daño recibido en 1d6 durante 30 segundos **(5 turnos)**, transfiriendo ese daño al objeto vinculado.
+6. **Simpatía Persistente**
     
     - **Descripción:** Mantiene el vínculo simpático activo sin concentración.
-    - **Efecto:** Por 3 puntos de Alar, puedes mantener un vínculo simpático sin necesidad de concentración durante 10 minutos.
+    - **Efecto:** Por 3 puntos de Alar y gastando una accion, puedes mantener un vínculo simpático sin necesidad de concentración durante 1 minuto.
+7. **Vínculo Masivo**
+    
+    - **Descripción:** Permite establecer múltiples vínculos simpáticos simultáneamente.
+    - **Efecto:** Por 5 puntos de Alar y una acción, puedes crear hasta 3 vínculos simpáticos adicionales sin necesidad de concentrarte más. Esto permite mantener múltiples conexiones sin aumentar la dificultad de concentración.
 
 ## Subclase
